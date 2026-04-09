@@ -89,6 +89,6 @@ The Smart Dustbin System leverages deep learning models and real-time sensor dat
 
 ---
 
-## 👨‍💻 Project Goal
+## Project Goal
 
 To build a scalable and intelligent waste segregation system that integrates AI with real-world environmental sustainability.
