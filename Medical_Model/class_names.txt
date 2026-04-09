@@ -1,0 +1,5 @@
+biohazard
+glass
+metal
+plastic
+sharps
